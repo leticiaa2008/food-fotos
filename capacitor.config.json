@@ -1,5 +1,5 @@
 {
-  "appId": "com.foodtruck.fiscal",
-  "appName": "food-truck-fiscal",
-  "webDir": "dist"
+  "appId": "com.food.fotos",
+  "appName": "Food Fiscal",
+  "webDir": "www"
 }

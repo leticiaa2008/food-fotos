@@ -10,13 +10,26 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
     "vite": "^8.3.4"
   },
   "dependencies": {
     "@capacitor/android": "^8.5.3",
     "@capacitor/camera": "^8.2.6",
-    "@capacitor/core": "^8.5.3",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticiaa2008/food-fotos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leticiaa2008/food-fotos/issues"
+  },
+  "homepage": "https://github.com/leticiaa2008/food-fotos#readme",
+  "description": ""
 }
